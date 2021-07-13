@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="country_labels">
+
+        <item>@string/country_india_label</item>
+        <item>@string/country_usa_label</item>
+        <item>@string/country_australia_label</item>
+        <item>@string/country_russia_label</item>
+        <item>@string/country_france_label</item>
+        <item>@string/country_united_kingdom_label</item>
+    </string-array>
+
+    <string-array name="countries_values">
+        <item>@string/country_india_value</item>
+        <item>@string/country_usa_value</item>
+        <item>@string/country_australia_value</item>
+        <item>@string/country_russia_value</item>
+        <item>@string/country_france_value</item>
+        <item>@string/country_united_kingdom_value</item>
+    </string-array>
+</resources>

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">NewsForest</string>
+    
+    <string name="country_label">Country</string>
+    <string name="country_key">country</string>
+    <string name="country_default">@string/country_india_value</string>
+
+    <string name="country_india_label">India</string>
+    <string name="country_india_value">in</string>
+
+    <string name="country_usa_label">USA</string>
+    <string name="country_usa_value">us</string>
+
+    <string name="country_australia_label">Australia</string>
+    <string name="country_australia_value">au</string>
+
+    <string name="country_russia_label">Russia</string>
+    <string name="country_russia_value">ru</string>
+
+    <string name="country_france_label">France</string>
+    <string name="country_france_value">fr</string>
+
+    <string name="country_united_kingdom_label">United Kingdom</string>
+    <string name="country_united_kingdom_value">gb</string>
+    <string name="newsapi">saurav.tech</string>
+
+
+</resources>
