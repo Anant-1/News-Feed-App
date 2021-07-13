@@ -30,7 +30,6 @@ import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity implements LoaderManager.LoaderCallbacks<ArrayList<News>> {
 
-    private static String NEWS_URL = "https://newsapi.org/v2/top-headlines?country=us&category=sports&apiKey=7b289db234b64dca86576c4b594b5614";
     private NewsAdapter mNewsAdapter;
     private ProgressBar mProgressBar;
     private TextView mEmptyTextView;
